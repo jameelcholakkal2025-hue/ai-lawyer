@@ -1,5 +1,5 @@
 {
-  "name": "legal-ai-server",
+  "name": "ai-legal-chat",
   "version": "1.0.0",
   "main": "server.js",
   "type": "module",
