@@ -1,7 +1,6 @@
 {
-  "name": "legal-ai-server",
+  "name": "openai-test-server",
   "version": "1.0.0",
-  "description": "Gemini AI backend for Legal Assistant App",
   "main": "server.js",
   "type": "module",
   "scripts": {
