@@ -1,6 +1,7 @@
 {
-  "name": "ai-legal-chat",
+  "name": "legal-ai-server",
   "version": "1.0.0",
+  "description": "Gemini AI backend for Legal Assistant App",
   "main": "server.js",
   "type": "module",
   "scripts": {
